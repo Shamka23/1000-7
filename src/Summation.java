@@ -14,5 +14,13 @@ public class Summation {
             return;
         }
 
+        System.out.println("Второе число");
+        int numberB = scanner.nextInt();
+        if (numberB > 1000000000) {
+            System.out.println("Ошибка: Число больше 1 000 000 000");
+            return;
+        }
+
+
     }
 }
