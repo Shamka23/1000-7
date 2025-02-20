@@ -21,6 +21,7 @@ public class Summation {
             return;
         }
 
-
+        long result = numberA + numberB;
+        System.out.println(result);
     }
 }
