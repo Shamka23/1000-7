@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71224f2a-afa0-4531-b5e0-921ae9f01f6a" name="Changes" comment="Вынес workspace.xml в .gitignore" />
+    <list default="true" id="71224f2a-afa0-4531-b5e0-921ae9f01f6a" name="Changes" comment="создание класса для тестирования и запуска программы">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Summation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Summation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +178,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740062514666</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Вынес workspace.xml в .gitignore">
+      <option name="closed" value="true" />
+      <created>1740062670770</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740062670770</updated>
+    </task>
+    <task id="LOCAL-00013" summary="создание класса для тестирования и запуска программы">
+      <option name="closed" value="true" />
+      <created>1740062789945</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740062789945</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +237,7 @@
     <MESSAGE value="Добавление if ко второму числу" />
     <MESSAGE value="Вычисление результата" />
     <MESSAGE value="Вынес workspace.xml в .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Вынес workspace.xml в .gitignore" />
+    <MESSAGE value="создание класса для тестирования и запуска программы" />
+    <option name="LAST_COMMIT_MESSAGE" value="создание класса для тестирования и запуска программы" />
   </component>
 </project>
