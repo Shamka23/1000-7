@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71224f2a-afa0-4531-b5e0-921ae9f01f6a" name="Changes" comment="Решение задачи">
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/src/Summation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1000-7/src/Summation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Summation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Summation.java" afterDir="false" />
+    <list default="true" id="71224f2a-afa0-4531-b5e0-921ae9f01f6a" name="Changes" comment="Внедрение решения задачи">
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -61,25 +61,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.NotDeafPhone.executor": "Run",
-    "Application.Summation.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "A+B",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Samurai/Desktop/git-demo",
-    "onboarding.tips.debug.path": "C:/Users/Samurai/Desktop/1000-7/1000-7/untitled/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.NotDeafPhone.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Summation.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;A+B&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Samurai/Desktop/git-demo&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Samurai/Desktop/1000-7/1000-7/untitled/src/Main.java&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA",
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;,
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -145,7 +145,71 @@
       <option name="project" value="LOCAL" />
       <updated>1740039763150</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Добавление if к первому числу">
+      <option name="closed" value="true" />
+      <created>1740041302120</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740041302120</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Добавление if ко второму числу">
+      <option name="closed" value="true" />
+      <created>1740041323537</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740041323537</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Вычисление результата">
+      <option name="closed" value="true" />
+      <created>1740041347105</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740041347105</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Вынес workspace.xml в .gitignore">
+      <option name="closed" value="true" />
+      <created>1740062514666</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740062514666</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Вынес workspace.xml в .gitignore">
+      <option name="closed" value="true" />
+      <created>1740062670770</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740062670770</updated>
+    </task>
+    <task id="LOCAL-00013" summary="создание класса для тестирования и запуска программы">
+      <option name="closed" value="true" />
+      <created>1740062789945</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740062789945</updated>
+    </task>
+    <task id="LOCAL-00014" summary="инициализация примитивов">
+      <option name="closed" value="true" />
+      <created>1740163311519</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740163311519</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Внедрение решения задачи">
+      <option name="closed" value="true" />
+      <created>1740254915543</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1740254915543</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,7 +228,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="NotDeafPhone" />
+                        <option value="A+B" />
                       </list>
                     </value>
                   </entry>
@@ -184,6 +248,13 @@
     <MESSAGE value="Добавление решения через IF" />
     <MESSAGE value="Создание главного класса Summation.java" />
     <MESSAGE value="Решение задачи" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решение задачи" />
+    <MESSAGE value="Добавление if к первому числу" />
+    <MESSAGE value="Добавление if ко второму числу" />
+    <MESSAGE value="Вычисление результата" />
+    <MESSAGE value="Вынес workspace.xml в .gitignore" />
+    <MESSAGE value="создание класса для тестирования и запуска программы" />
+    <MESSAGE value="инициализация примитивов" />
+    <MESSAGE value="Внедрение решения задачи" />
+    <option name="LAST_COMMIT_MESSAGE" value="Внедрение решения задачи" />
   </component>
 </project>

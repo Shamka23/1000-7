@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71224f2a-afa0-4531-b5e0-921ae9f01f6a" name="Changes" comment="инициализация примитивов">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Summation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Summation.java" afterDir="false" />
+    <list default="true" id="71224f2a-afa0-4531-b5e0-921ae9f01f6a" name="Changes" comment="Внедрение решения задачи">
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740163311519</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Внедрение решения задачи">
+      <option name="closed" value="true" />
+      <created>1740254915543</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1740254915543</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,6 +254,7 @@
     <MESSAGE value="Вынес workspace.xml в .gitignore" />
     <MESSAGE value="создание класса для тестирования и запуска программы" />
     <MESSAGE value="инициализация примитивов" />
-    <option name="LAST_COMMIT_MESSAGE" value="инициализация примитивов" />
+    <MESSAGE value="Внедрение решения задачи" />
+    <option name="LAST_COMMIT_MESSAGE" value="Внедрение решения задачи" />
   </component>
 </project>

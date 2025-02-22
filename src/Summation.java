@@ -5,8 +5,8 @@ public class Summation {
         if (firstNumber > 1000000000 && secondNumber > 1000000000) {
             System.out.println("Ошибка: число больше 1 000 000 000");
         } else {
-            long result = firstNumber + secondNumber;
-            System.out.println(result);
+            long resultSum = firstNumber + secondNumber;
+            System.out.println(resultSum);
         }
         return 0;
     }
