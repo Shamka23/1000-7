@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71224f2a-afa0-4531-b5e0-921ae9f01f6a" name="Changes" comment="Проверка кода.">
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/src/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1000-7/src/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/src/Summation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1000-7/src/Summation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Summation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Summation.java" afterDir="false" />
-    </list>
+    <list default="true" id="71224f2a-afa0-4531-b5e0-921ae9f01f6a" name="Changes" comment="Добавление цикла для быстрой проверки кода" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740254915543</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Добавление цикла для быстрой проверки кода">
+      <option name="closed" value="true" />
+      <created>1740257174004</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1740257174004</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,6 +263,7 @@
     <MESSAGE value="инициализация примитивов" />
     <MESSAGE value="Внедрение решения задачи" />
     <MESSAGE value="Проверка кода." />
-    <option name="LAST_COMMIT_MESSAGE" value="Проверка кода." />
+    <MESSAGE value="Добавление цикла для быстрой проверки кода" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление цикла для быстрой проверки кода" />
   </component>
 </project>
