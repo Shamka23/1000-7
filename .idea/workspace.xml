@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71224f2a-afa0-4531-b5e0-921ae9f01f6a" name="Changes" comment="Внедрение решения задачи">
+    <list default="true" id="71224f2a-afa0-4531-b5e0-921ae9f01f6a" name="Changes" comment="Проверка кода.">
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/src/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1000-7/src/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/src/Summation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1000-7/src/Summation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Summation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Summation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,25 +64,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.NotDeafPhone.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Summation.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;A+B&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Samurai/Desktop/git-demo&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Samurai/Desktop/1000-7/1000-7/untitled/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.NotDeafPhone.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Summation.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "A+B",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Samurai/Desktop/git-demo",
+    "onboarding.tips.debug.path": "C:/Users/Samurai/Desktop/1000-7/1000-7/untitled/src/Main.java"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JAVA&quot;,
-      &quot;PLAIN_TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA",
+      "PLAIN_TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -255,6 +259,7 @@
     <MESSAGE value="создание класса для тестирования и запуска программы" />
     <MESSAGE value="инициализация примитивов" />
     <MESSAGE value="Внедрение решения задачи" />
-    <option name="LAST_COMMIT_MESSAGE" value="Внедрение решения задачи" />
+    <MESSAGE value="Проверка кода." />
+    <option name="LAST_COMMIT_MESSAGE" value="Проверка кода." />
   </component>
 </project>
