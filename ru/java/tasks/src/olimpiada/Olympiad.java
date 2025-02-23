@@ -63,11 +63,6 @@ public class Olympiad {
         return new OlimpiadResult(Student.FIFTH_YEAR_STUDENT, countSolvedTasks, penalty);
     }
 
-    public static void main(String[] args) {
-        int[] tasks = new int[]{30, 60, 60};
-        System.out.println(countSolvedTasksFor3(tasks).getCountSolvedTasks());
-    }
-
     private static OlimpiadResult countSolvedTasksFor3(int[] tasks) {
         int countTime = 0, countSolvedTasks = 0, penalty = 0, prevPenalty = 0;
 
