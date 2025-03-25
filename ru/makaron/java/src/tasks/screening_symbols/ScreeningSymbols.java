@@ -1,4 +1,4 @@
-package src;
+package tasks.screening_symbols;
 
 public class ScreeningSymbols {
     public static void main(String[] args) {
