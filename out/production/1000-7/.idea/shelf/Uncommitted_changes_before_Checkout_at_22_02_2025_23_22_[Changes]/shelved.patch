@@ -1,0 +1,15 @@
+Index: out/production/1000-7/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Default ignored files\r\n/shelf/\r\n/workspace.xml\r\n
+===================================================================
+diff --git a/out/production/1000-7/.idea/.gitignore b/out/production/1000-7/.idea/.gitignore
+--- a/out/production/1000-7/.idea/.gitignore	(revision 1efe3e24b06a7caa9626f19df28aca243ab2a9f5)
++++ b/out/production/1000-7/.idea/.gitignore	(date 1740255754895)
+@@ -1,3 +1,4 @@
+ # Default ignored files
+ /shelf/
+-/workspace.xml
++.idea/
++*.iml
+\ No newline at end of file
