@@ -1,4 +1,4 @@
-package src;
+package tasks.unicode;
 
 public class Unicode {
     public static void main(String[] args) {
