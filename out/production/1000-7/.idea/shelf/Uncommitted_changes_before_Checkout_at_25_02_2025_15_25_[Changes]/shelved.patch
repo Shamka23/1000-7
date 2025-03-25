@@ -1,0 +1,48 @@
+Index: src/Solution.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package src;\r\n\r\npublic class Solution {\r\n    public static void main(String[] args) {\r\n            System.out.println(SameColors.minNumberBeadOneColor(13));\r\n            System.out.println(SameColors.minNumberBeadOneColor(1000000006));\r\n            System.out.println(SameColors.minNumberBeadOneColor(-10));\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Solution.java b/src/Solution.java
+--- a/src/Solution.java	(revision c78c6e77a850c11f943d574bc7bd600938da603d)
++++ b/src/Solution.java	(date 1740387174095)
+@@ -2,8 +2,9 @@
+ 
+ public class Solution {
+     public static void main(String[] args) {
+-            System.out.println(SameColors.minNumberBeadOneColor(13));
+-            System.out.println(SameColors.minNumberBeadOneColor(1000000006));
+-            System.out.println(SameColors.minNumberBeadOneColor(-10));
++        System.out.println(SameColors.minNumberBeadOneColor(13));
++        System.out.println(SameColors.minNumberBeadOneColor(1000000006));
++        System.out.println(SameColors.minNumberBeadOneColor(-10));
++        System.out.println(SameColors.minNumberBeadOneColor(3));
+     }
+ }
+Index: src/SameColors.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package src;\r\n\r\npublic class SameColors {\r\n    public static int minNumberBeadOneColor(int numberOfColors) {\r\n        while (true) {\r\n            if (numberOfColors < 1 || numberOfColors > 1000000000) {\r\n                return 0;\r\n            } else {\r\n                return numberOfColors + 1;\r\n            }\r\n        }\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/SameColors.java b/src/SameColors.java
+--- a/src/SameColors.java	(revision c78c6e77a850c11f943d574bc7bd600938da603d)
++++ b/src/SameColors.java	(date 1740387174103)
+@@ -2,12 +2,10 @@
+ 
+ public class SameColors {
+     public static int minNumberBeadOneColor(int numberOfColors) {
+-        while (true) {
+-            if (numberOfColors < 1 || numberOfColors > 1000000000) {
+-                return 0;
+-            } else {
+-                return numberOfColors + 1;
+-            }
++        if (numberOfColors < 1 || numberOfColors > 1000000000) {
++            return 0;
++        } else {
++            return numberOfColors + 1;
+         }
+     }
+ }
