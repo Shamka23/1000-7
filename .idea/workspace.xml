@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d94d8261-9351-42de-8aa7-5c23b3c9c4e0" name="Changes" comment="Сделал задачу 2. Экранирование символов" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Unicode" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "#6 on ScreeningSymbols"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samurai\Desktop\1000-7\1000-7\ru\makaron\java\src\tasks\unicode" />
+      <recent name="C:\Users\Samurai\Desktop\1000-7\1000-7\ru\makaron\java\src\tasks\not_deaf_phone" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="добавление в .gitignore файлов">
+      <option name="closed" value="true" />
+      <created>1742909971383</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742909971383</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Задача 1. Unicode">
+      <option name="closed" value="true" />
+      <created>1742910016466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742910016466</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задача 1. Unicode">
+      <option name="closed" value="true" />
+      <created>1742910046555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742910046555</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Сделал задачу 2. Экранирование символов">
+      <option name="closed" value="true" />
+      <created>1742910879877</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742910879877</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="добавление в .gitignore файлов" />
+    <MESSAGE value="Сделал Задачу 1. Unicode" />
+    <MESSAGE value="Задача 1. Unicode" />
+    <MESSAGE value="Сделал задачу 2. Экранирование символов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал задачу 2. Экранирование символов" />
+  </component>
+</project>
