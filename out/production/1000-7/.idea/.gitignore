@@ -1,4 +1,9 @@
 # Default ignored files
+<<<<<<<< HEAD:out/production/1000-7/.idea/.gitignore
 /shelf/
 .idea/
 *.iml
+========
+/.idea/
+.gitignore
+>>>>>>>> 5a1d01c (Refactor ветки main):.gitignore
