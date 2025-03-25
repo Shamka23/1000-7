@@ -1,0 +1,47 @@
+Index: ru/makaron/java/src/tasks/not_deaf_phone/Solution.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/ru/makaron/java/src/tasks/not_deaf_phone/Solution.java b/ru/makaron/java/src/tasks/not_deaf_phone/Solution.java
+new file mode 100644
+--- /dev/null	(date 1742909412006)
++++ b/ru/makaron/java/src/tasks/not_deaf_phone/Solution.java	(date 1742909412006)
+@@ -0,0 +1,10 @@
++package tasks.not_deaf_phone;
++
++
++public class Solution {
++    public static void main(String[] args) {
++        NotDeafPhone.infoOutput(102);
++        NotDeafPhone.infoOutput(2);
++        NotDeafPhone.infoOutput(98);
++    }
++}
+Index: ru/makaron/java/src/tasks/not_deaf_phone/NotDeafPhone.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/ru/makaron/java/src/tasks/not_deaf_phone/NotDeafPhone.java b/ru/makaron/java/src/tasks/not_deaf_phone/NotDeafPhone.java
+new file mode 100644
+--- /dev/null	(date 1742909412006)
++++ b/ru/makaron/java/src/tasks/not_deaf_phone/NotDeafPhone.java	(date 1742909412006)
+@@ -0,0 +1,15 @@
++package tasks.not_deaf_phone;
++
++
++public class NotDeafPhone {
++    public static void infoOutput(int inputNumber){
++        while (true) {
++            if (inputNumber > 100 || inputNumber < 1) {
++                System.out.println("Числа не в том диапазоне. Попробуйте от 1 до 100");
++            } else {
++                System.out.println(inputNumber);
++            }
++            break;
++        }
++    }
++}
+diff --git a/ru/makaron/java/src/tasks/not_deaf_phone/Info.txt b/ru/makaron/java/src/tasks/not_deaf_phone/Info.txt
+new file mode 100644

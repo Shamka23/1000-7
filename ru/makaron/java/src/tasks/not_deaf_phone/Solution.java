@@ -1,4 +1,4 @@
-package src;
+package tasks.not_deaf_phone;
 
 
 public class Solution {
