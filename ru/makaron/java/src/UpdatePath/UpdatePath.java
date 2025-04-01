@@ -10,4 +10,6 @@ public class UpdatePath {
 
     public static String changePath(String path, String jdk13) {
         int startIndex = path.indexOf("jdk");
+        int endIndex = path.indexOf("/", startIndex);
+    }
 }
