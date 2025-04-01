@@ -22,7 +22,16 @@ public class CheckURL {
     }
 
     public static String checkDomain(String url) {
-        //напишите тут ваш код
-        return "неизвестный";
+        if (url.endsWith("com")){
+            return "com";
+        } else if (url.endsWith("net")){
+            return "net";
+        } else if (url.endsWith("org")){
+            return "org";
+        }  else if (url.endsWith("ru")) {
+            return "ru";
+        } else {
+            return "неизвестный";
+        }
     }
 }
