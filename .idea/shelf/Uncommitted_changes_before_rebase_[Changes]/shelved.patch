@@ -1,0 +1,85 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"ea03aa6f-53bd-44c1-bbef-38c1d0e5cad2\" name=\"Changes\" comment=\"Выполнил чтение индекса из последнего слова в строке\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"RESET_MODE\" value=\"HARD\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Shamka23&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Shamka23/1000-7.git&quot;,\r\n    &quot;accountId&quot;: &quot;b6080995-fea5-49ee-bcb7-e021504be55a&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 5\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2uoNYNM1q6iSfLIs4Ocz1ufYDGN\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;WorkingWithStringsInJava&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Samurai\\Desktop\\1000-7\\1000-7\\ru\\makaron\\java\\src\\tasks\\screening_symbols\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task id=\"LOCAL-00001\" summary=\"Сделал задачу 2. Экранирование символов\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1742911343609</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1742911343609</updated>\r\n    </task>\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"ea03aa6f-53bd-44c1-bbef-38c1d0e5cad2\" name=\"Changes\" comment=\"Сделал задачу 2. Экранирование символов\" />\r\n      <created>1743511871947</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1743511871947</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Выполнил проверку Протокола сайтов\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743518776106</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743518776106</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Выполнил проверку Домена сайтов\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743518802119</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743518802119</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Поставленная задача\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743518971075</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743518971075</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Обозначил задачу и выполнил чтение индекса из первого слова в строке\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743520669378</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743520669378</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Выполнил чтение индекса из последнего слова в строке\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743520710501</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743520710501</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"7\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Сделал задачу 2. Экранирование символов\" />\r\n    <MESSAGE value=\"Выполнил проверку Протокола сайтов\" />\r\n    <MESSAGE value=\"Выполнил проверку Домена сайтов\" />\r\n    <MESSAGE value=\"Поставленная задача\" />\r\n    <MESSAGE value=\"Обозначил задачу и выполнил чтение индекса из первого слова в строке\" />\r\n    <MESSAGE value=\"Выполнил чтение индекса из последнего слова в строке\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Выполнил чтение индекса из последнего слова в строке\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision cfae1b8de07f88edd59a37fe6864aaa8b8187ab4)
++++ b/.idea/workspace.xml	(date 1743522677683)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="ea03aa6f-53bd-44c1-bbef-38c1d0e5cad2" name="Changes" comment="Выполнил чтение индекса из последнего слова в строке" />
++    <list default="true" id="ea03aa6f-53bd-44c1-bbef-38c1d0e5cad2" name="Changes" comment="Вывел путь со сменой содержания" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -49,13 +49,14 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;WorkingWithStringsInJava&quot;,
+-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.git.unshallow": "true",
++    "git-widget-placeholder": "WorkingWithStringsInJava",
++    "kotlin-language-version-configured": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\Samurai\Desktop\1000-7\1000-7\ru\makaron\java\src\tasks\screening_symbols" />
+@@ -118,7 +119,31 @@
+       <option name="project" value="LOCAL" />
+       <updated>1743520710501</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="Закинул задание и обозначил начальную точку индексирования">
++      <option name="closed" value="true" />
++      <created>1743522568311</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1743522568311</updated>
++    </task>
++    <task id="LOCAL-00008" summary="обозначил Вторую точку индексирования">
++      <option name="closed" value="true" />
++      <created>1743522593326</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1743522593326</updated>
++    </task>
++    <task id="LOCAL-00009" summary="Вывел путь со сменой содержания">
++      <option name="closed" value="true" />
++      <created>1743522624398</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1743522624398</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -139,6 +164,9 @@
+     <MESSAGE value="Поставленная задача" />
+     <MESSAGE value="Обозначил задачу и выполнил чтение индекса из первого слова в строке" />
+     <MESSAGE value="Выполнил чтение индекса из последнего слова в строке" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Выполнил чтение индекса из последнего слова в строке" />
++    <MESSAGE value="Закинул задание и обозначил начальную точку индексирования" />
++    <MESSAGE value="обозначил Вторую точку индексирования" />
++    <MESSAGE value="Вывел путь со сменой содержания" />
++    <option name="LAST_COMMIT_MESSAGE" value="Вывел путь со сменой содержания" />
+   </component>
+ </project>
+\ No newline at end of file

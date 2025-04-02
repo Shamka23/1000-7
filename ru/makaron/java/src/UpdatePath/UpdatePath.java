@@ -4,14 +4,15 @@ public class UpdatePath {
     public static void main(String[] args) {
         String path = "/usr/java/jdk1.8/bin/";
 
-        String jdk13 = "jdk-13";
-        System.out.println(changePath(path, jdk13));
+        String newJDK = "29";
+        System.out.println(changePath(path, newJDK));
+
     }
 
-    public static String changePath(String path, String jdk13) {
+    public static String changePath(String path, String newJDK) {
         int startIndex = path.indexOf("jdk");
         int endIndex = path.indexOf("/", startIndex);
 
-        return path.substring(0, startIndex) + jdk13 + path.substring(endIndex);
+        return path.substring(0, startIndex + 3) + newJDK + path.substring(endIndex);
     }
 }

@@ -2,31 +2,22 @@ package SearchInString;
 
 public class SearchStringInString {
 
-    private static final String STRING = "Чтобы стать программистом, нужно писать код. Чтобы писать код, нужно учиться. Чтобы учиться, нужно желание.";
-    private static final String WORD = "код";
+    public static final String WORD = "код";
+    public static final String STRING = "Чтобы стать программистом, нужно писать код. Чтобы писать код, нужно учиться. Чтобы учиться, нужно желание.";
 
     public static void main(String[] args) {
-        SearchStringInString searchString = new SearchStringInString();
+        int indexFromFirstWord = getIndexFromFirstWord(STRING, WORD);
+        int indexFromLastWord = getIndexFromLastWord(STRING, WORD);
 
-        int firstIndex = searchString.getIndexFromFirstWord();
-        int secondIndex = searchString.getIndexFromLastWord();
-
-        System.out.println(firstIndex + "\n" + secondIndex);
+        System.out.println("Индекс первого символа первого слова \"" + WORD + "\" равен - " + indexFromFirstWord);
+        System.out.println("Индекс первого символа последнего слова \"" + WORD + "\" равен - " + indexFromLastWord);
     }
 
-    public String getString(){
-        return STRING;
+    public static int getIndexFromFirstWord(String string, String word) {
+        return string.indexOf(word);
     }
 
-    public String getWord(){
-        return WORD;
-    }
-    public int getIndexFromFirstWord() {
-        return getString().indexOf(getWord());
-    }
-
-
-    public int getIndexFromLastWord() {
-        return getString().lastIndexOf(getWord());
+    public static int getIndexFromLastWord(String string, String word) {
+        return string.lastIndexOf(word);
     }
 }
