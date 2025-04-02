@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea03aa6f-53bd-44c1-bbef-38c1d0e5cad2" name="Changes" comment="добавление в .gitignore файлов">
+    <list default="true" id="ea03aa6f-53bd-44c1-bbef-38c1d0e5cad2" name="Changes" comment="подтянул Инкапсуляцию в поиске строк">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_23_16_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_23_16_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_23_16__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_23_22_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_23_22_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_23_22__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_39_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_39_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_39__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_02_2025_15_25_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_02_2025_15_25_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_02_2025_15_25__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/1000-7/.idea/1000-7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/1000-7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/1000-7/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1000-7/1000-7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ru/makaron/java/src/CheckingTheURL/CheckURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/ru/makaron/java/src/CheckingTheURL/CheckURL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ru/makaron/java/src/SearchInString/SearchStringInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/ru/makaron/java/src/SearchInString/SearchStringInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ru/makaron/java/src/UpdatePath/UpdatePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/ru/makaron/java/src/UpdatePath/UpdatePath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +56,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CheckURL.executor": "Run",
     "Application.SearchStringInString.executor": "Run",
+    "Application.UpdatePath.executor": "Run",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "#9 on WorkingWithStringsInJava",
     "kotlin-language-version-configured": "true"
@@ -139,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743520710501</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="подтянул Инкапсуляцию в поиске строк">
+      <option name="closed" value="true" />
+      <created>1743608749020</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743608749020</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +156,7 @@
     <MESSAGE value="Обозначил задачу и выполнил чтение индекса из первого слова в строке" />
     <MESSAGE value="Выполнил чтение индекса из последнего слова в строке" />
     <MESSAGE value="добавление в .gitignore файлов" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавление в .gitignore файлов" />
+    <MESSAGE value="подтянул Инкапсуляцию в поиске строк" />
+    <option name="LAST_COMMIT_MESSAGE" value="подтянул Инкапсуляцию в поиске строк" />
   </component>
 </project>
