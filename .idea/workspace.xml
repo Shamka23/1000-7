@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea03aa6f-53bd-44c1-bbef-38c1d0e5cad2" name="Changes" comment="Выполнил чтение индекса из последнего слова в строке" />
+    <list default="true" id="ea03aa6f-53bd-44c1-bbef-38c1d0e5cad2" name="Changes" comment="добавление в .gitignore файлов">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_23_16_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_23_16_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_23_16__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_23_22_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_23_22_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_22_02_2025_23_22__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_39_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_39_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_02_2025_18_39__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_02_2025_15_25_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_02_2025_15_25_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_02_2025_15_25__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/1000-7/.idea/1000-7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/1000-7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/1000-7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1000-7/1000-7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ru/makaron/java/src/SearchInString/SearchStringInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/ru/makaron/java/src/SearchInString/SearchStringInString.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,13 +69,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;WorkingWithStringsInJava&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SearchStringInString.executor": "Run",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "#9 on WorkingWithStringsInJava",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Samurai\Desktop\1000-7\1000-7\ru\makaron\java\src\tasks\screening_symbols" />
@@ -139,6 +160,7 @@
     <MESSAGE value="Поставленная задача" />
     <MESSAGE value="Обозначил задачу и выполнил чтение индекса из первого слова в строке" />
     <MESSAGE value="Выполнил чтение индекса из последнего слова в строке" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнил чтение индекса из последнего слова в строке" />
+    <MESSAGE value="добавление в .gitignore файлов" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавление в .gitignore файлов" />
   </component>
 </project>
