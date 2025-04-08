@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6531564d-121b-4978-929b-504597ee18e5" name="Changes" comment="Подтянул инкапсуляцию и исправил ошибки">
+      <change afterPath="$PROJECT_DIR$/ru/makaron/java/src/tasks/StringTokenizer/Info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ru/makaron/java/src/tasks/StringTokenizer/Main_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ru/makaron/java/src/tasks/StringTokenizer/WorkWithTokens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ru/makaron/java/src/tasks/screening_symbols/Info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ru/makaron/java/src/tasks/screening_symbols/ScreeningSymbols.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main_Solution.executor": "Run",
+    "git-widget-placeholder": "fiveTasks"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Подтянул инкапсуляцию и исправил ошибки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Подтянул инкапсуляцию и исправил ошибки" />
+  </component>
+</project>
