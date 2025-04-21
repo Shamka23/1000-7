@@ -1,9 +1,5 @@
 package com.javarush.task.pro.task09.task0901;
 
-/* 
-Целочисленные литералы
-*/
-
 public class Solution {
     public byte b = -128;
     public short s = -32768;

@@ -1,10 +1,16 @@
 package com.javarush.task.pro.task08.task0806;
 
+import java.util.ArrayList;
+import java.io.BufferedReader;
+import java.io.StringReader;
+import java.math.BigInteger;
+
+
 
 public class Solution {
     public static void main(java.lang.String[] args) {
-        java.util.ArrayList<java.lang.String> arrayList = new java.util.ArrayList<>();
-        java.io.BufferedReader bufferedReader = new java.io.BufferedReader(new java.io.StringReader(""));
-        java.math.BigInteger bigInteger = new java.math.BigInteger("123");
+        ArrayList<String> arrayPush = new ArrayList<>();
+        BufferedReader leadBuffer = new BufferedReader(new StringReader(""));
+        BigInteger bigNumber = new BigInteger("123");
     }
 }

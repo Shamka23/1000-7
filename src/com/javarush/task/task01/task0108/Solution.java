@@ -1,9 +1,5 @@
 package com.javarush.task.task01.task0108;
 
-/* 
-2 + 3 = 5
-*/
-
 public class Solution {
     public static void main(String[] args) {
         int a = 3;

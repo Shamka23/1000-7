@@ -1,9 +1,5 @@
 package com.javarush.task.pro.task08.task0811;
 
-/* 
-Побитовые операции
-*/
-
 public class Solution {
 
     public static void main(String[] args) {

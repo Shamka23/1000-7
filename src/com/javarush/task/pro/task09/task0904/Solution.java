@@ -1,14 +1,10 @@
 package com.javarush.task.pro.task09.task0904;
 
-/* 
-Символьные литералы
-*/
-
 public class Solution {
-    public static char first = '\u004A';
-    public static char second = 'a';
-    public static char third = '\u0076';
-    public static char fourth = 'a';
+    private static char first = '\u004A';
+    private static char second = 'a';
+    private static char third = '\u0076';
+    private static char fourth = 'a';
 
     public static void main(String[] args) {
         System.out.print(first);

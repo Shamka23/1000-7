@@ -1,9 +1,5 @@
 package com.javarush.task.pro.task09.task0902;
 
-/* 
-Литералы с плавающей точкой
-*/
-
 public class Solution {
     public double a = 0.;
     public double b = .0;
