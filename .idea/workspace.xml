@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea03aa6f-53bd-44c1-bbef-38c1d0e5cad2" name="Changes" comment="подтянул Инкапсуляцию в поиске строк">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ru/makaron/java/src/CheckingTheURL/CheckURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/ru/makaron/java/src/CheckingTheURL/CheckURL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ru/makaron/java/src/SearchInString/SearchStringInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/ru/makaron/java/src/SearchInString/SearchStringInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ru/makaron/java/src/UpdatePath/UpdatePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/ru/makaron/java/src/UpdatePath/UpdatePath.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Shamka23&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Shamka23/1000-7.git&quot;,
+    &quot;accountId&quot;: &quot;b6080995-fea5-49ee-bcb7-e021504be55a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2uoNYNM1q6iSfLIs4Ocz1ufYDGN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CheckURL.executor": "Run",
+    "Application.SearchStringInString.executor": "Run",
+    "Application.UpdatePath.executor": "Run",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "#9 on WorkingWithStringsInJava",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samurai\Desktop\1000-7\1000-7\ru\makaron\java\src\tasks\screening_symbols" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Сделал задачу 2. Экранирование символов">
+      <option name="closed" value="true" />
+      <created>1742911343609</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742911343609</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea03aa6f-53bd-44c1-bbef-38c1d0e5cad2" name="Changes" comment="Сделал задачу 2. Экранирование символов" />
+      <created>1743511871947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743511871947</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Выполнил проверку Протокола сайтов">
+      <option name="closed" value="true" />
+      <created>1743518776106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743518776106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Выполнил проверку Домена сайтов">
+      <option name="closed" value="true" />
+      <created>1743518802119</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743518802119</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Поставленная задача">
+      <option name="closed" value="true" />
+      <created>1743518971075</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743518971075</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Обозначил задачу и выполнил чтение индекса из первого слова в строке">
+      <option name="closed" value="true" />
+      <created>1743520669378</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743520669378</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Выполнил чтение индекса из последнего слова в строке">
+      <option name="closed" value="true" />
+      <created>1743520710501</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743520710501</updated>
+    </task>
+    <task id="LOCAL-00007" summary="подтянул Инкапсуляцию в поиске строк">
+      <option name="closed" value="true" />
+      <created>1743608749020</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743608749020</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Сделал задачу 2. Экранирование символов" />
+    <MESSAGE value="Выполнил проверку Протокола сайтов" />
+    <MESSAGE value="Выполнил проверку Домена сайтов" />
+    <MESSAGE value="Поставленная задача" />
+    <MESSAGE value="Обозначил задачу и выполнил чтение индекса из первого слова в строке" />
+    <MESSAGE value="Выполнил чтение индекса из последнего слова в строке" />
+    <MESSAGE value="добавление в .gitignore файлов" />
+    <MESSAGE value="подтянул Инкапсуляцию в поиске строк" />
+    <option name="LAST_COMMIT_MESSAGE" value="подтянул Инкапсуляцию в поиске строк" />
+  </component>
+</project>
