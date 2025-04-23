@@ -2,7 +2,7 @@ package tasks.StringBuilder;
 
 public class Solution {
 
-    private static StringBuilder builder;
+    private static StringBuilder builder = new StringBuilder();
 
     public static void main(String[] args) {
         String string = "Учиться, учиться и еще раз учиться! ";
@@ -12,16 +12,16 @@ public class Solution {
     }
 
     private static StringBuilder addTo(String string, String[] strings) {
-        builder = new StringBuilder(string);
+        builder.append(string);
         for (int i = 0; i < strings.length; i++) {
             builder.append(strings[i]);
         }
         return builder;
     }
 
-    private static StringBuilder replace(String stringToReplace, String stringForReplace, int start, int end) {
-        builder = new StringBuilder(stringToReplace);
-        builder.replace(start, end, stringForReplace);
+    private static StringBuilder replace(String stringToReplace, String forReplace, int start, int end) {
+        builder.append(stringToReplace);
+        builder.replace(start, end, forReplace);
         return builder;
     }
 }

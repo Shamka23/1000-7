@@ -1,7 +1,7 @@
 package tasks.ReverseReset;
 
 public class Solution {
-    private static StringBuilder builder;
+    private static StringBuilder builder = new StringBuilder();
 
     public static void main(String[] args) {
         String string = "Ходит кот задом наперед";
@@ -10,7 +10,7 @@ public class Solution {
     }
 
     private static String reverseString(String string) {
-        builder = new StringBuilder(string);
+        builder.append(string);
         builder.reverse();
         String result = builder.toString();
         return result;
