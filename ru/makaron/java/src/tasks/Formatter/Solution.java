@@ -5,7 +5,7 @@ public class Solution {
         System.out.println(format("Амиго", 5000));
     }
 
-    public static String format(String name, int salary) {
+    private static String format(String name, int salary) {
         return String.format("Меня зовут %s. Я буду зарабатывать $%d в месяц.", name, salary);
     }
 }

@@ -1,8 +1,5 @@
 package tasks.StringPool;
 
-/* 
-String pool
-*/
 
 public class Solution {
     public static void main(String[] args) {
@@ -13,7 +10,7 @@ public class Solution {
         System.out.println(equal(second, third));
     }
 
-    public static boolean equal(String first, String second) {
+    private static boolean equal(String first, String second) {
         return first.intern() == second.intern();
     }
 }
