@@ -9,9 +9,8 @@ public class AddReplaceMovement {
         return builder;
     }
 
-    public static StringBuilder replace(String string, String str, int start, int end) {
-        StringBuilder builder = new StringBuilder(string);
-        builder.replace(start, end, str);
-        return builder;
+    public static StringBuilder replace(String base, String target, int start, int end) {
+        StringBuilder builder = new StringBuilder(base);
+        return builder.replace(start, end, target);
     }
 }
