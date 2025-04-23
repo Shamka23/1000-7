@@ -1,19 +1,20 @@
 package tasks.unicode;
 
 public class Unicode {
+
+    private static char[] values = {64, 74, 97, 118, 97, 82, 117, 115, 104};
+
+
     public static void main(String[] args) {
         char[] symbols = new char[9];
-        init(symbols);
+        initArraySymbols(symbols);
         System.out.println(new String(symbols));
     }
 
-    public static void init(char[] symbols) {
-        {
-            char[] values = {'\u00A9', '\u004A', '\u0061', '\u0076', '\u0061', '\u0052', '\u0075', '\u0073', '\u0068'};
-
-            for (int i = 0; i < symbols.length; i++) {
-                symbols[i] = values[i];
-            }
+    public static char[] initArraySymbols(char[] arraySymbols) {
+        for (int i = 0; i < arraySymbols.length; i++) {
+            arraySymbols[i] = values[i];
         }
+        return arraySymbols;
     }
 }
