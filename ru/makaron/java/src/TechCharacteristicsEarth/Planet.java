@@ -1,18 +1,37 @@
 package TechCharacteristicsEarth;
 
-/* 
-Земля: техническая характеристика
-*/
-
 public class Planet {
 
-    public String name;
+    private String name;
+    private long age;
+    private int speed;
+    private int area;
 
-    public long age;
+    public void setName(String name){
+        this.name = name;
+    }
+    public String getName(){
+        return name;
+    }
 
-    public int speed;
-
-    public int area;
+    public void setAge(long age){
+        this.age = age;
+    }
+    public long getAge(){
+        return age;
+    }
+    public void setSpeed(int speed){
+        this.speed = speed;
+    }
+    public int getSpeed(){
+        return speed;
+    }
+    public void setArea(int area){
+        this.area = area;
+    }
+    public int getArea(){
+        return area;
+    }
 
     public void printInformation() {
         System.out.println("Имя планеты: " + name + ".");
