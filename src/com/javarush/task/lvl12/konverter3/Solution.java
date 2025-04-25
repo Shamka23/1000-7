@@ -1,4 +1,4 @@
-package com.javarush.task.lvl12.konverter;
+package com.javarush.task.lvl12.konverter3;
 
 public class Solution {
     public static void main(String[] args) {

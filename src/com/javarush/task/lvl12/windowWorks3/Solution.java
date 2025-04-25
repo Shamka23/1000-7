@@ -1,4 +1,4 @@
-package com.javarush.task.lvl12.windowWorks;
+package com.javarush.task.lvl12.windowWorks3;
 
 
 public class Solution {
