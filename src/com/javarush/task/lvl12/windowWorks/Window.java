@@ -1,9 +1,5 @@
 package com.javarush.task.lvl12.windowWorks;
 
-/* 
-Оконные работы
-*/
-
 public class Window {
     private int height = 2;
     private int width = 3;

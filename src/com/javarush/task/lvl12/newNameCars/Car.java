@@ -1,14 +1,11 @@
 package com.javarush.task.lvl12.newNameCars;
 
-/* 
-Одинаковые машины
-*/
 
 public class Car {
     private String modelName;
     private int speed;
 
-    public  String getModelName() {
+    public String getModelName() {
         return modelName;
     }
 

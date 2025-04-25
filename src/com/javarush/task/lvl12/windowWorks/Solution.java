@@ -1,8 +1,5 @@
 package com.javarush.task.lvl12.windowWorks;
 
-/* 
-Оконные работы
-*/
 
 public class Solution {
     public static void main(String[] args) {
