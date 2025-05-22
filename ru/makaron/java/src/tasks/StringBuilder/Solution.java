@@ -1,5 +1,7 @@
 package tasks.StringBuilder;
 
+import java.util.Arrays;
+
 public class Solution {
 
     private static StringBuilder builder = new StringBuilder();
@@ -13,9 +15,7 @@ public class Solution {
 
     private static StringBuilder addTo(String string, String[] strings) {
         builder.append(string);
-        for (int i = 0; i < strings.length; i++) {
-            builder.append(strings[i]);
-        }
+        builder.append(String.join(" ", strings));
         return builder;
     }
 
