@@ -2,22 +2,22 @@ package SearchInString;
 
 public class SearchStringInString {
 
-    public static final String WORD = "код";
-    public static final String STRING = "Чтобы стать программистом, нужно писать код. Чтобы писать код, нужно учиться. Чтобы учиться, нужно желание.";
+    public static final String TARGETWORD = "код";
+    public static final String INITIALSTRING = "Чтобы стать программистом, нужно писать код. Чтобы писать код, нужно учиться. Чтобы учиться, нужно желание.";
 
     public static void main(String[] args) {
-        int indexFromFirstWord = getIndexFromFirstWord(STRING, WORD);
-        int indexFromLastWord = getIndexFromLastWord(STRING, WORD);
+        int indexFromFirstWord = getIndexFromFirstWord(INITIALSTRING, TARGETWORD);
+        int indexFromLastWord = getIndexFromLastWord(INITIALSTRING, TARGETWORD);
 
-        System.out.println("Индекс первого символа первого слова \"" + WORD + "\" равен - " + indexFromFirstWord);
-        System.out.println("Индекс первого символа последнего слова \"" + WORD + "\" равен - " + indexFromLastWord);
+        System.out.println("Индекс первого символа первого слова \"" + TARGETWORD + "\" равен - " + indexFromFirstWord);
+        System.out.println("Индекс первого символа последнего слова \"" + TARGETWORD + "\" равен - " + indexFromLastWord);
     }
 
-    public static int getIndexFromFirstWord(String string, String word) {
-        return string.indexOf(word);
+    public static int getIndexFromFirstWord(String initialString, String targetWord) {
+        return initialString.indexOf(targetWord);
     }
 
-    public static int getIndexFromLastWord(String string, String word) {
-        return string.lastIndexOf(word);
+    public static int getIndexFromLastWord(String initialString, String targetWord) {
+        return initialString.lastIndexOf(targetWord);
     }
 }

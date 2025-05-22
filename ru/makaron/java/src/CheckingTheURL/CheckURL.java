@@ -20,11 +20,11 @@ public class CheckURL {
         }
     }
 
-    public static boolean checkProtocol(String url) {
+    private static boolean checkProtocol(String url) {
        return url.startsWith("https");
     }
 
-    public static boolean checkDomain(String url) {
+    private static boolean checkDomain(String url) {
         return url.endsWith(".com") || url.endsWith(".org") || url.endsWith(".ru") || url.endsWith(".net");
     }
 }
