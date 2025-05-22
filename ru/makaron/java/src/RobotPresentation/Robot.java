@@ -5,7 +5,7 @@ public class Robot {
     private int id;
     private int productionYear;
     private String model;
-    public static String vendor = "Javarush Co.";
+    public static final String VENDOR = "Javarush Co.";
 
     public Robot(String model, int productionYear) {
         this.model = model;
@@ -15,6 +15,24 @@ public class Robot {
 
     public void displayInformation() {
         System.out.printf("Я %d-й из %d роботов. Модель: %s. Произведен компанией %s в %d году.\n",
-                id, robotCounter, model, vendor, productionYear);
+                getID(), robotCounter, getModel(), VENDOR, getProductionYear());
+    }
+    public void setID(int id) {
+        this.id = id;
+    }
+    public int getID() {
+        return id;
+    }
+    public void setProductionYear(int productionYear) {
+        this.productionYear = productionYear;
+    }
+    public int getProductionYear() {
+        return productionYear;
+    }
+    public void setModel(String model) {
+        this.model = model;
+    }
+    public String getModel() {
+        return model;
     }
 }
