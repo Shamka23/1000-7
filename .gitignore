@@ -1,7 +1,13 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+<<<<<<<< HEAD:.gitignore
 idea
 .gitignore
 .git
 out
+========
+/.idea/
+*.xml
+*.iml
+>>>>>>>> 174c9329daa96b3626a3e7f18bfeeb17c73ac95e:out/production/1000-7/1000-7/.idea/.gitignore
