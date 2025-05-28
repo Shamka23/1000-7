@@ -2,6 +2,7 @@ package com.javarush.task.lvl14forEachLoop;
 
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 
 /* 
 Найти и обезвредить
@@ -10,15 +11,16 @@ import java.util.Iterator;
 public class FoundAndDefuse {
 
     public static void main(String[] args) {
-        ArrayList<String> words = new ArrayList<>();
-        words.add("Hello world!");
-        words.add("Amigo");
-        words.add("Elly");
-        words.add("Kerry");
-        words.add("Bug");
-        words.add("bug");
-        words.add("Easy ug");
-        words.add("Risha");
+        List<String> words = List.of(
+                "Hello world!",
+                "Amigo",
+                "Elly",
+                "Kerry",
+                "Bug",
+                "bug",
+                "Easy ug",
+                "Risha"
+        );
 
         ArrayList<String> copyWordsFirst = new ArrayList<>(words);
         ArrayList<String> copyWordsSecond = new ArrayList<>(words);
@@ -37,7 +39,7 @@ public class FoundAndDefuse {
         System.out.println(line);
     }
 
-    public static void removeBugWithFor(ArrayList<String> list) {
+    private static void removeBugWithFor(ArrayList<String> list) {
         for (int i = 0; i < list.size(); i++) {
             if (list.get(i).equalsIgnoreCase("bug")) {
                 list.remove(i);
@@ -45,7 +47,7 @@ public class FoundAndDefuse {
         }
     }
 
-    public static void removeBugWithWhile(ArrayList<String> list) {
+    private static void removeBugWithWhile(ArrayList<String> list) {
         Iterator<String> it = list.iterator();
         while (it.hasNext()) {
             if (it.next().equalsIgnoreCase("bug")) {
@@ -54,10 +56,10 @@ public class FoundAndDefuse {
         }
     }
 
-    public static void removeBugWithCopy(ArrayList<String> list) {
+    private static void removeBugWithCopy(ArrayList<String> list) {
         ArrayList<String> copy = new ArrayList<>(list);
 
-        for (String word :copy){
+        for (String word : copy) {
             if (word.equalsIgnoreCase("bug")) {
                 list.remove(word);
             }
