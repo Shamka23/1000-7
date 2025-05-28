@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6531564d-121b-4978-929b-504597ee18e5" name="Changes" comment="Классы по решению задачи StringTokenizer вгрузил">
-      <change afterPath="$PROJECT_DIR$/ru/makaron/java/src/tasks/StringBuilder/AddReplaceMovement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ru/makaron/java/src/tasks/StringBuilder/MainSolution.java" afterDir="false" />
-    </list>
+    <list default="true" id="71224f2a-afa0-4531-b5e0-921ae9f01f6a" name="Changes" comment="Добавление цикла для быстрой проверки кода" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,35 +20,250 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="NotDeafPhone" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Shamka23&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Shamka23/1000-7.git&quot;,
+    &quot;accountId&quot;: &quot;b6080995-fea5-49ee-bcb7-e021504be55a&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;Shamka23&quot;,
+    &quot;repository&quot;: &quot;1000-7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2tGGr2Nq7TLhKeaqzZ1Uoqtpl5O" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main_Solution.executor": "Run",
-    "git-widget-placeholder": "fiveTasks"
+    "Application.NotDeafPhone.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Summation.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "A+B",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Samurai/Desktop/git-demo",
+    "onboarding.tips.debug.path": "C:/Users/Samurai/Desktop/1000-7/1000-7/untitled/src/Main.java"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA",
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="Классы по решению задачи StringTokenizer вгрузил">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71224f2a-afa0-4531-b5e0-921ae9f01f6a" name="Changes" comment="" />
+      <created>1739971192540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739971192540</updated>
+    </task>
+    <task id="LOCAL-00001" summary="begin project">
       <option name="closed" value="true" />
-      <created>1744119229543</created>
+      <created>1739972198947</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1744119229543</updated>
+      <updated>1739972198947</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first push">
+      <option name="closed" value="true" />
+      <created>1739972319095</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739972319095</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Создание класса NotDeafPhone.java">
+      <option name="closed" value="true" />
+      <created>1740034452398</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740034452398</updated>
+    </task>
+    <task id="LOCAL-00004" summary="объявление переменной inputNumber Класса Scanner">
+      <option name="closed" value="true" />
+      <created>1740038490400</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740038490400</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Добавление решения через IF">
+      <option name="closed" value="true" />
+      <created>1740038928702</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740038928702</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Создание главного класса Summation.java">
+      <option name="closed" value="true" />
+      <created>1740039416753</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740039416753</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Решение задачи">
+      <option name="closed" value="true" />
+      <created>1740039763150</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740039763150</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Добавление if к первому числу">
+      <option name="closed" value="true" />
+      <created>1740041302120</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740041302120</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Добавление if ко второму числу">
+      <option name="closed" value="true" />
+      <created>1740041323537</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740041323537</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Вычисление результата">
+      <option name="closed" value="true" />
+      <created>1740041347105</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740041347105</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Вынес workspace.xml в .gitignore">
+      <option name="closed" value="true" />
+      <created>1740062514666</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740062514666</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Вынес workspace.xml в .gitignore">
+      <option name="closed" value="true" />
+      <created>1740062670770</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740062670770</updated>
+    </task>
+    <task id="LOCAL-00013" summary="создание класса для тестирования и запуска программы">
+      <option name="closed" value="true" />
+      <created>1740062789945</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740062789945</updated>
+    </task>
+    <task id="LOCAL-00014" summary="инициализация примитивов">
+      <option name="closed" value="true" />
+      <created>1740163311519</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740163311519</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Внедрение решения задачи">
+      <option name="closed" value="true" />
+      <created>1740254915543</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1740254915543</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Добавление цикла для быстрой проверки кода">
+      <option name="closed" value="true" />
+      <created>1740257174004</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1740257174004</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="A+B" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Подтянул инкапсуляцию и исправил ошибки" />
-    <MESSAGE value="Классы по решению задачи StringTokenizer вгрузил" />
-    <option name="LAST_COMMIT_MESSAGE" value="Классы по решению задачи StringTokenizer вгрузил" />
+    <MESSAGE value="begin project" />
+    <MESSAGE value="first push" />
+    <MESSAGE value="Создание класса NotDeafPhone.java" />
+    <MESSAGE value="объявление переменной inputNumber Класса Scanner" />
+    <MESSAGE value="Добавление решения через IF" />
+    <MESSAGE value="Создание главного класса Summation.java" />
+    <MESSAGE value="Решение задачи" />
+    <MESSAGE value="Добавление if к первому числу" />
+    <MESSAGE value="Добавление if ко второму числу" />
+    <MESSAGE value="Вычисление результата" />
+    <MESSAGE value="Вынес workspace.xml в .gitignore" />
+    <MESSAGE value="создание класса для тестирования и запуска программы" />
+    <MESSAGE value="инициализация примитивов" />
+    <MESSAGE value="Внедрение решения задачи" />
+    <MESSAGE value="Проверка кода." />
+    <MESSAGE value="Добавление цикла для быстрой проверки кода" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление цикла для быстрой проверки кода" />
   </component>
 </project>
