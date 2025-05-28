@@ -3,7 +3,3 @@
 /shelf/
 .idea/
 *.iml
-========
-/.idea/
-.gitignore
->>>>>>>> 5a1d01c (Refactor ветки main):.gitignore
