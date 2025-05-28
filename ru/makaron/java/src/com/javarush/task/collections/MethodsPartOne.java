@@ -1,4 +1,4 @@
 package com.javarush.task.collections;
 
-public class MethodsPart1 {
+public class MethodsPartOne {
 }

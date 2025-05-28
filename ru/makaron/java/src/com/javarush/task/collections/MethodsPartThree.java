@@ -7,7 +7,7 @@ import java.util.Collections;
 Изучаем методы класса Collections, часть 3
 */
 
-public class MethodsPart3 {
+public class MethodsPartThree {
 
     public static Integer min(ArrayList<Integer> list) {
         return Collections.min(list);
