@@ -5,7 +5,7 @@ public class Robot {
     private int id;
     private int productionYear;
     private String model;
-    public static final String VENDOR = "Javarush Co.";
+    private static final String VENDOR = "Javarush Co.";
 
     public Robot(String model, int productionYear) {
         this.model = model;
