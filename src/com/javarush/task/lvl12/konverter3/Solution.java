@@ -1,4 +1,4 @@
-package com.javarush.task.lvl12.konverter;
+package com.javarush.task.lvl12.konverter3;
 
 import java.util.Scanner;
 
