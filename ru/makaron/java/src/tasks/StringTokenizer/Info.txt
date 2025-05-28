@@ -1,0 +1,6 @@
+Используя StringTokenizer раздели query на части по разделителю delimiter.
+
+Пример: getTokens("java.util.stream", "\\.")
+возвращает массив строк {"java", "util", "stream"}
+
+Hint: решить задачу поможет метод countTokens().
