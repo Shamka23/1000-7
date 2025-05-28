@@ -9,7 +9,7 @@ public class UpdatePath {
 
     }
 
-    public static String changePath(String path, String newJdk) {
+    private static String changePath(String path, String newJdk) {
         int startIndex = path.indexOf("jdk");
         int endIndex = path.indexOf("/", startIndex);
 
